@@ -1,0 +1,4 @@
+pandas>=2.0
+requests>=2.31
+matplotlib>=3.7
+anthropic>=0.40   # optional, only used when ANTHROPIC_API_KEY is set
